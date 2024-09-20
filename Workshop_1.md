@@ -1,6 +1,9 @@
-powered by Denisov D.V.  
+powered by Denisov D.V.
+
 BigDigital лаборатория разработки игр 
-[bigdigital-gamelab.ru](https://bigdigital-gamelab.ru) 
+
+[bigdigital-gamelab.ru](https://bigdigital-gamelab.ru)
+
 
 ### Работа #1 - Компонент физики Rigidbody в Unity
 
@@ -19,7 +22,9 @@ BigDigital лаборатория разработки игр
 
 Для эксперимента с массой были установлены разные значения: для CubeSid — 1 кг, для CubeNancy — 100 кг.
 
-| ![png_2](https://github.com/Valentina-0941/Unity_Workshop/blob/main/source/W1_source/png_2.png) | ![png_3](https://github.com/Valentina-0941/Unity_Workshop/blob/main/source/W1_source/png_3.png) |
+| ![png_2](https://github.com/Valentina-0941/Unity_Workshop/blob/main/source/W1_source/png_2.png)|
+|---|
+| ![png_3](https://github.com/Valentina-0941/Unity_Workshop/blob/main/source/W1_source/png_3.png) |
 
 ![gif_2](https://github.com/Valentina-0941/Unity_Workshop/blob/main/source/W1_source/gif_2.gif)
 
